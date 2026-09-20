@@ -82,4 +82,4 @@ You can make flasher image by yourself with the following steps.
 - PROFIT
 
 - Version : 1.2.02
-Updated on 17-09-2026 by Melbin George
+Updated on 20-09-2026 by Melbin George
